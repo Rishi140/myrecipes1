@@ -1,0 +1,5 @@
+peelthepotatoes;
+soakincoldwater;
+taketheminfreshcloth;
+fryittillitbecomesgoldenbrown;
+servehotwhitsauce;
